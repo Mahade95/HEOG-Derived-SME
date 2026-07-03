@@ -8,13 +8,20 @@ This repository contains the implementation of an HEOG-based driver vigilance mo
 
 ## Repository Structure
 HEOG-Derived-SME/
+
 │
 ├── data/                 # Dataset (not included)
+
 ├── models/               # Trained models (optional)
+
 ├── figures/              # Figures used in the paper
+
 ├── src/                  # Source code
+
 ├── requirements.txt      # Python dependencies
+
 ├── main.py               # Main program
+
 └── README.md
 
 ## Requirements
