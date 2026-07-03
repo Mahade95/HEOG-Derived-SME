@@ -6,24 +6,6 @@ Official implementation of the paper:
 ## Overview
 This repository contains the implementation of an HEOG-based driver vigilance monitoring framework for detecting slow eye movements (SEMs) associated with driver drowsiness. The proposed framework performs feature preprocessing, feature standardization, hyperparameter optimization, and Support Vector Machine (SVM) classification for distinguishing between alert and drowsy driver states.
 
-## Repository Structure
-HEOG-Derived-SME/
-
-│
-├── data/                 # Dataset (not included)
-
-├── models/               # Trained models (optional)
-
-├── figures/              # Figures used in the paper
-
-├── src/                  # Source code
-
-├── requirements.txt      # Python dependencies
-
-├── main.py               # Main program
-
-└── README.md
-
 ## Requirements
 - Python 3.10+
 - NumPy
